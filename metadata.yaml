@@ -1,5 +1,8 @@
 _repo: Moving-the-Mountain_66864
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66864-h/images/mountain_cover.jpg
 creator:
   author:
     agent_name: Gilman, Charlotte Perkins
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/27
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66864#Moving-the-Mountain
 gutenberg_issued: '2021-12-02'
 identifiers:
   gutenberg: '66864'
